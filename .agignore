@@ -1,0 +1,13 @@
+build/
+dist/
+node_modules/
+coverage/
+tmp/
+*.git
+*.gz
+*.ico
+*.so
+*.svn
+*.swp
+*.tar
+*.zip
